@@ -17,7 +17,7 @@
 * [KDD](#kdd)
 * [WWW](#www)
 * [SIGMOD / VLDB](#sigmod--vldb)
-* [Miscellaneous](#miscellaneous)
+* [Weather / Meteorology](#weather--meteorology)
 
 ---
 
@@ -99,16 +99,18 @@
 | 2022 | [Chronos: Robust Forecasting with Dynamic Time Features](https://dl.acm.org/doi/10.1145/3514221.3517867) | Forecasting | [Code](https://github.com/salesforce/Chronos) |
 
 ---
+## 🌦 Weather / Meteorology
 
-## 🧩 Miscellaneous
-
-| Venue      | Title                                                                                                  | Task        | Code                                          |
-| ---------- | ------------------------------------------------------------------------------------------------------ | ----------- | --------------------------------------------- |
-| arXiv 2024 | [PatchTST: A Simple and Strong Baseline for Time Series Forecasting](https://arxiv.org/abs/2211.14730) | Forecasting | [Code](https://github.com/yuqinie98/PatchTST) |
-| arXiv 2023 | [TimeGPT: Foundation Model for Time Series](https://arxiv.org/abs/2306.17752)                          | Forecasting | [Code](https://github.com/nixtla/timegpt)     |
+| Year | Title                                                                                                                                                                                                                                   | Task                      | Code                                                                     |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------------------------------------------------------------ |
+| 2023 | [Rainformer: A Temporal-Aware Transformer for Rainfall Forecasting](https://arxiv.org/abs/2303.02961)                                                                                                                                   | Rainfall Nowcasting       | [Code](https://github.com/OpenGeos/Rainformer)                           |
+| 2022 | [Precipitation Nowcasting via Spatio-Temporal Precipitation Field Alignment](https://openaccess.thecvf.com/content/CVPR2022/html/Huang_Precipitation_Nowcasting_via_Spatio-Temporal_Precipitation_Field_Alignment_CVPR_2022_paper.html) | Nowcasting                | [Code](https://github.com/hhj1897/PrecipAlignNet)                        |
+| 2022 | [UNetFormer: Unified UNet-like Architecture for Precipitation Nowcasting](https://arxiv.org/abs/2204.00330)                                                                                                                             | Nowcasting                | [Code](https://github.com/NeuralNets4Weather/unetformer)                 |
+| 2021 | [MetNet-2: Deep Learning for 12-Hour Precipitation Forecasting](https://arxiv.org/abs/2111.07470)                                                                                                                                       | Precipitation Forecasting | [Code](https://github.com/google-research/metnet-2)                      |
+| 2020 | [Deep Generative Models for Radar-based Precipitation Nowcasting](https://arxiv.org/abs/1911.07470)                                                                                                                                     | Nowcasting                | [Code](https://github.com/hydroclimate/PredRNN_Precipitation_Nowcasting) |
+| 2019 | [MetNet: A Neural Weather Model for Precipitation Forecasting](https://arxiv.org/abs/2003.12140)                                                                                                                                        | Nowcasting                | –                                                                        |
 
 ---
-
 ## 🙌 Contributing
 
 Have a paper or project to add? Please open an issue or submit a pull request!
