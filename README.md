@@ -123,7 +123,7 @@
 
 | Year | Title                                                                                                   | Task            | Code                                            |
 | ---- | ------------------------------------------------------------------------------------------------------- | --------------- | ----------------------------------------------- |
-
+| 2025 | Exploiting Language Power for Time Series Forecasting with Exogenous Variables     | Forecasting (exogenous variables, NLP) | —                                                                                                                           |
 
 ---
 
