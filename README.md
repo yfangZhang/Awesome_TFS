@@ -25,9 +25,7 @@
 
 | Year | Title                                                                                                         | Task        | Code                                                        |
 | ---- | ------------------------------------------------------------------------------------------------------------- | ----------- | ----------------------------------------------------------- |
-| 2023 | [Neural State Space Models for Long-Term Forecasting](https://arxiv.org/abs/2302.06681)                       | Forecasting | [Code](https://github.com/MBRLab/Neural-State-Space-Models) |
-| 2022 | [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis](https://arxiv.org/abs/2210.02186) | Forecasting | [Code](https://github.com/thuml/TimesNet)                   |
-| 2021 | [Autoformer: Decomposition Transformers with Auto-Correlation](https://arxiv.org/abs/2106.13008)              | Forecasting | [Code](https://github.com/thuml/Autoformer)                 |
+
 
 ---
 
@@ -35,9 +33,7 @@
 
 | Year | Title                                                                                                       | Task        | Code                                                        |
 | ---- | ----------------------------------------------------------------------------------------------------------- | ----------- | ----------------------------------------------------------- |
-| 2024 | [Neural ODE Processes](https://openreview.net/forum?id=TfUgz3rG3x)                                          | Forecasting | [Code](https://github.com/EmilienDupont/NeuralODEProcesses) |
-| 2023 | [DLinear: Extrapolating Time Series with Linear Models](https://openreview.net/forum?id=COu1yZ5JBi_)        | Forecasting | [Code](https://github.com/cure-lab/DLinear)                 |
-| 2022 | [Informer: Efficient Transformer for Long Sequence Forecasting](https://openreview.net/forum?id=rd6EGEW1fN) | Forecasting | [Code](https://github.com/zhouhaoyi/Informer2020)           |
+
 
 ---
 
@@ -45,8 +41,31 @@
 
 | Year | Title                                                                                                      | Task        | Code                                                        |
 | ---- | ---------------------------------------------------------------------------------------------------------- | ----------- | ----------------------------------------------------------- |
-| 2022 | [Non-stationary Transformers for Time Series Forecasting](https://proceedings.mlr.press/v162/yue22b.html)  | Forecasting | [Code](https://github.com/thuml/Nonstationary_Transformers) |
-| 2021 | [FEDformer: Frequency Enhanced Decomposition Transformer](https://proceedings.mlr.press/v162/zhou22g.html) | Forecasting | [Code](https://github.com/MAZiqing/FEDformer)               |
+以下是我为剩余 13 篇 ICML 2025 时间序列论文查找到的 arXiv／OpenReview／代码链接，已统一整理至表格，供你填入 README 使用。
+
+---
+
+## 🧬 ICML 2025
+
+| Year                | Title                                                                                                                      | Task                                          | Code                                                                                                                                                         |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2025                | TimeDART: A Diffusion Autoregressive Transformer for Self‑Supervised Time Series Representation                            | Representation learning                       | [Code](https://github.com/Melmaphother/TimeDART)                                                                                                             |
+| 2025                | TimeFilter: Patch‑Specific Spatial‑Temporal Graph Filtration for Time Series Forecasting                                   | Forecasting                                   | [Code](https://github.com/TROUBADOUR000/TimeFilter)                                                                                                          |
+| 2025                | CFPT: Empowering Time Series Forecasting through Cross‑Frequency Interaction and Periodic‑Aware Timestamp Modeling         | Forecasting                                   | [Code](https://github.com/BUPT‑SN/CFPT)                                                                                                                      |
+| 2025                | TimeBridge: Non‑Stationarity Matters for Long‑term Time Series Forecasting                                                 | Forecasting (non‑stationary series)           | [Code](https://github.com/Hank0626/TimeBridge) ([arXiv](https://arxiv.org/abs/2410.04442)) ([OpenReview][1], [arXiv][2], [GitHub][3], [ICML][4], [arXiv][5]) |
+| 2025                | LightGTS: A Lightweight General Time Series Forecasting Model                                                              | Forecasting (foundation model)                | [Code](https://github.com/decisionintelligence/LightGTS) ([arXiv](https://arxiv.org/abs/2506.06005)) ([arXiv][6], [OpenReview][7], [ICML][8])                |
+| 2025                | Temporal Query Network for Efficient Multivariate Time Series Forecasting                                                  | Forecasting                                   | [Code (TQNet)](https://github.com/ACAT-SCUT/TQNet) ([GitHub][3])                                                                                             |
+| 2025                | TimeStacker: A Novel Framework with Multilevel Observation for Capturing Nonstationary Patterns in Time Series Forecasting | Forecasting (stacked non‑stationary modeling) | OpenReview & Poster available ([ICML][9], [OpenReview][10])                                                                                                  |
+| 2025                | LETS Forecast: Learning Embedology for Time Series Forecasting                                                             | Forecasting (embedology)                      | ICML Poster available ([ICML][11])                                                                                                                           |
+| 2025                | Lightweight Online Adaption for Time Series Foundation Model Forecasts                                                     | Forecasting (online adaptation)               | ICML Poster (ELF framework) ([ICML][12])                                                                                                                     |
+| 2025                | CFPT (see above)                                                                                                           | Forecasting                                   | …                                                                                                                                                            |
+| **未找到公开资源**         | TimeFilter, CFPT: …                                                                                                        | …                                             | —                                                                                                                                                            |
+| **未找到公开资源**         | Enhancing Foundation Models via Wavelet‑based Tokenization                                                                 | Forecasting / foundation model                | —                                                                                                                                                            |
+| **未找到公开 resources** | Time‑VLM: Multimodal vision‑language for augmented forecasting                                                             | Multimodal forecasting                        | —                                                                                                                                                            |
+| **未找到公开 resources** | Breaking Silos: Adaptive Model Fusion Unlocks Better Time Series Forecasting                                               | Ensemble / forecasting                        | —                                                                                                                                                            |
+| **未找到公开 resources** | Privacy Amplification by Structured Subsampling for Deep Differentially Private Time Series Forecasting                    | Privacy-aware forecasting                     | —                                                                                                                                                            |
+| **未找到公开 resources** | TimeBase: Minimalist Efficient Long‑term Time Series Forecasting                                                           | Forecasting                                   | —                                                                                                                                                            |
+
 
 ---
 
@@ -54,8 +73,7 @@
 
 | Year | Title                                                                                                        | Task        | Code                                                 |
 | ---- | ------------------------------------------------------------------------------------------------------------ | ----------- | ---------------------------------------------------- |
-| 2023 | [Crossformer: Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/abs/2303.09675)       | Forecasting | [Code](https://github.com/Thinklab-SJTU/Crossformer) |
-| 2022 | [CSformer: Cascaded Sampling Transformer for Long-Term Series Forecasting](https://arxiv.org/abs/2209.09509) | Forecasting | [Code](https://github.com/AI4Science-Meta/CSformer)  |
+
 
 ---
 
@@ -63,7 +81,7 @@
 
 | Year | Title                                                                                                                                                                                                                             | Task              | Code                       |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | -------------------------- |
-| 2022 | [Video Time-Series Forecasting with Hierarchical Temporal Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Hierarchical_Temporal_Transformer_for_Forecasting_Complex_Dynamic_Scenes_CVPR_2022_paper.pdf) | Video Forecasting | [Code](https://github.com) |
+
 
 ---
 
@@ -71,7 +89,7 @@
 
 | Year | Title                                                                                         | Task        | Code                                                          |
 | ---- | --------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------- |
-| 2023 | [Time Series Forecasting with Natural Language Supervision](https://arxiv.org/abs/2305.10138) | Forecasting | [Code](https://github.com/someone/timeseries-nlp-supervision) |
+
 
 ---
 
@@ -79,8 +97,7 @@
 
 | Year | Title                                                                                                               | Task              | Code                                                 |
 | ---- | ------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------------------------------------------------- |
-| 2022 | [GTS: A Benchmark for General Time Series Forecasting](https://arxiv.org/abs/2202.07125)                            | Benchmark         | [Code](https://github.com/laiguokun/GTS)             |
-| 2021 | [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://arxiv.org/abs/2110.02642) | Anomaly Detection | [Code](https://github.com/thuml/Anomaly-Transformer) |
+
 
 ---
 
@@ -88,7 +105,7 @@
 
 | Year | Title                                                                                                   | Task            | Code                                            |
 | ---- | ------------------------------------------------------------------------------------------------------- | --------------- | ----------------------------------------------- |
-| 2021 | [Graph Neural Forecasting for Spatio-Temporal Data](https://dl.acm.org/doi/abs/10.1145/3442381.3449892) | Spatio-Temporal | [Code](https://github.com/nnzhan/Graph-WaveNet) |
+
 
 ---
 
@@ -96,19 +113,14 @@
 
 | Year | Title                                                                                                    | Task        | Code                                          |
 | ---- | -------------------------------------------------------------------------------------------------------- | ----------- | --------------------------------------------- |
-| 2022 | [Chronos: Robust Forecasting with Dynamic Time Features](https://dl.acm.org/doi/10.1145/3514221.3517867) | Forecasting | [Code](https://github.com/salesforce/Chronos) |
+
 
 ---
 ## 🌦 Weather / Meteorology
 
 | Year | Title                                                                                                                                                                                                                                   | Task                      | Code                                                                     |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------------------------------------------------------------ |
-| 2023 | [Rainformer: A Temporal-Aware Transformer for Rainfall Forecasting](https://arxiv.org/abs/2303.02961)                                                                                                                                   | Rainfall Nowcasting       | [Code](https://github.com/OpenGeos/Rainformer)                           |
-| 2022 | [Precipitation Nowcasting via Spatio-Temporal Precipitation Field Alignment](https://openaccess.thecvf.com/content/CVPR2022/html/Huang_Precipitation_Nowcasting_via_Spatio-Temporal_Precipitation_Field_Alignment_CVPR_2022_paper.html) | Nowcasting                | [Code](https://github.com/hhj1897/PrecipAlignNet)                        |
-| 2022 | [UNetFormer: Unified UNet-like Architecture for Precipitation Nowcasting](https://arxiv.org/abs/2204.00330)                                                                                                                             | Nowcasting                | [Code](https://github.com/NeuralNets4Weather/unetformer)                 |
-| 2021 | [MetNet-2: Deep Learning for 12-Hour Precipitation Forecasting](https://arxiv.org/abs/2111.07470)                                                                                                                                       | Precipitation Forecasting | [Code](https://github.com/google-research/metnet-2)                      |
-| 2020 | [Deep Generative Models for Radar-based Precipitation Nowcasting](https://arxiv.org/abs/1911.07470)                                                                                                                                     | Nowcasting                | [Code](https://github.com/hydroclimate/PredRNN_Precipitation_Nowcasting) |
-| 2019 | [MetNet: A Neural Weather Model for Precipitation Forecasting](https://arxiv.org/abs/2003.12140)                                                                                                                                        | Nowcasting                | –                                                                        |
+
 
 ---
 ## 🙌 Contributing
