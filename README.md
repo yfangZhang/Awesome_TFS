@@ -31,9 +31,50 @@
 ---
 
 ## 🌱 ICLR
-
-| Year | Title                                                                                                       | Task        | Code                                                        |
-| ---- | ----------------------------------------------------------------------------------------------------------- | ----------- | ----------------------------------------------------------- |
+| Year | Title | Task | Link / Code |
+|-------|-------|------|-------------|
+| 2025 | TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis | Forecasting | — |
+| 2025 | Root Cause Analysis of Anomalies in Multivariate Time Series through Granger Causal Discovery | Anomaly Detection / Causality | — |
+| 2025 | Amortized Control of Continuous State Space Feynman-Kac Model for Irregular Time Series | Forecasting (irregular TS) | — |
+| 2025 | On the Identification of Temporal Causal Representation with Instantaneous Dependence | Causal Representation | — |
+| 2025 | CausalRivers: Scaling up benchmarking of causal discovery for real-world time-series | Causal Discovery | — |
+| 2025 | Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts | Foundation Models | — |
+| 2025 | Can LLMs Understand Time Series Anomalies? | Anomaly Detection / LLM | — |
+| 2025 | In-context Time Series Predictor | Forecasting | — |
+| 2025 | Optimal Transport for Time Series Imputation | Imputation | — |
+| 2025 | TimeInf: Time Series Data Contribution via Influence Function | Data Contribution | — |
+| 2025 | Compositional simulation-based inference for time series | Simulation / Inference | — |
+| 2025 | DyCAST: Learning Dynamic Causal Structure from Time Series | Causal Structure Learning | — |
+| 2025 | Timer-XL: Long-Context Transformers for Unified Time Series Forecasting | Forecasting (long context) | — |
+| 2025 | PPT: Patch Order Do Matters In Time Series Pretext Task | Self-Supervised Learning | — |
+| 2025 | Diffusion Transformers for Tabular Data Time Series Generation | Generation | — |
+| 2025 | Going Beyond Static: Understanding Shifts with Time-Series Attribution | Attribution / Shift Detection | — |
+| 2025 | Kernel-based Optimally Weighted Conformal Time-Series Prediction | Conformal Prediction | — |
+| 2025 | Learn Hybrid Prototypes for Multivariate Time Series Anomaly Detection | Anomaly Detection | — |
+| 2025 | Investigating Pattern Neurons in Urban Time Series Forecasting | Forecasting | — |
+| 2025 | Diffusion-based Decoupled Deterministic and Uncertain Framework for Probabilistic Multivariate Time Series Forecasting | Probabilistic Forecasting | — |
+| 2025 | Label Correlation Biases Direct Time Series Forecast | Forecasting | — |
+| 2025 | Fast and Slow Streams for Online Time Series Forecasting Without Information Leakage | Online Forecasting | — |
+| 2025 | Locally Connected Echo State Networks for Time Series Forecasting | Forecasting | — |
+| 2025 | Shifting the Paradigm: A Diffeomorphism Between Time Series Data Manifolds for Achieving Shift-Invariancy in Deep Learning | Theoretical / Invariance | — |
+| 2025 | Efficient Source-Free Time-Series Adaptation via Parameter Subspace Disentanglement | Domain Adaptation | — |
+| 2025 | Physiome-ODE: A Benchmark for Irregularly Sampled Multivariate Time-Series Forecasting Based on Biological ODEs | Benchmark / Irregular TS | — |
+| 2025 | Towards Neural Scaling Laws for Time Series Foundation Models | Foundation Models | — |
+| 2025 | CATCH: Channel-Aware Multivariate Time Series Anomaly Detection via Frequency Patching | Anomaly Detection | — |
+| 2025 | CoMRes: Semi-Supervised Time Series Forecasting Utilizing Consensus Promotion of Multi-Resolution | Semi-Supervised Forecasting | — |
+| 2025 | Context-Alignment: Activating and Enhancing LLMs Capabilities in Time Series | LLM + Time Series | — |
+| 2025 | TVNet: A Novel Time Series Analysis Method Based on Dynamic Convolution and 3D-Variation | Analysis Method | — |
+| 2025 | Multi-Resolution Decomposable Diffusion Model for Non-Stationary Time Series Anomaly Detection | Anomaly Detection | — |
+| 2025 | KooNPro: A Variance-Aware Koopman Probabilistic Model Enhanced by Neural Processes for Time Series Forecasting | Probabilistic Forecasting | — |
+| 2025 | Towards a General Time Series Anomaly Detector with Adaptive Bottlenecks and Dual Adversarial Decoders | Anomaly Detection | — |
+| 2025 | TimeKAN: KAN-based Frequency Decomposition Learning Architecture for Long-term Time Series Forecasting | Forecasting | — |
+| 2025 | S4M: S4 for Multivariate Time Series Forecasting with Missing Values | Forecasting | — |
+| 2025 | A Simple Baseline for Multivariate Time Series Forecasting | Forecasting | — |
+| 2025 | Shedding Light on Time Series Classification using Interpretability Gated Networks | Classification | — |
+| 2025 | Flow Matching with Gaussian Process Priors for Probabilistic Time Series Forecasting | Probabilistic Forecasting | — |
+| 2025 | Learning Interpretable Hierarchical Dynamical Systems Models from Time Series Data | Modeling | — |
+| 2025 | TS-LIF: A Temporal Segment Spiking Neuron Network for Time Series Forecasting | Forecasting | — |
+| 2025 | Quantifying Past Error Matters: Conformal Inference for Time Series | Conformal Inference | — |
 
 
 ---
