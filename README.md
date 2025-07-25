@@ -37,13 +37,6 @@
 
 ---
 
-## 🔬 ICML
-
-| Year | Title                                                                                                      | Task        | Code                                                        |
-| ---- | ---------------------------------------------------------------------------------------------------------- | ----------- | ----------------------------------------------------------- |
-以下是我为剩余 13 篇 ICML 2025 时间序列论文查找到的 arXiv／OpenReview／代码链接，已统一整理至表格，供你填入 README 使用。
-
----
 
 ## 🧬 ICML 2025
 
@@ -59,12 +52,12 @@
 | 2025                | LETS Forecast: Learning Embedology for Time Series Forecasting                                                             | Forecasting (embedology)                      | ICML Poster available ([ICML][11])                                                                                                                           |
 | 2025                | Lightweight Online Adaption for Time Series Foundation Model Forecasts                                                     | Forecasting (online adaptation)               | ICML Poster (ELF framework) ([ICML][12])                                                                                                                     |
 | 2025                | CFPT (see above)                                                                                                           | Forecasting                                   | …                                                                                                                                                            |
-| **未找到公开资源**         | TimeFilter, CFPT: …                                                                                                        | …                                             | —                                                                                                                                                            |
-| **未找到公开资源**         | Enhancing Foundation Models via Wavelet‑based Tokenization                                                                 | Forecasting / foundation model                | —                                                                                                                                                            |
-| **未找到公开 resources** | Time‑VLM: Multimodal vision‑language for augmented forecasting                                                             | Multimodal forecasting                        | —                                                                                                                                                            |
-| **未找到公开 resources** | Breaking Silos: Adaptive Model Fusion Unlocks Better Time Series Forecasting                                               | Ensemble / forecasting                        | —                                                                                                                                                            |
-| **未找到公开 resources** | Privacy Amplification by Structured Subsampling for Deep Differentially Private Time Series Forecasting                    | Privacy-aware forecasting                     | —                                                                                                                                                            |
-| **未找到公开 resources** | TimeBase: Minimalist Efficient Long‑term Time Series Forecasting                                                           | Forecasting                                   | —                                                                                                                                                            |
+| 2025         | TimeFilter, CFPT: …                                                                                                        | …                                             | —                                                                                                                                                            |
+| 2025         | Enhancing Foundation Models via Wavelet‑based Tokenization                                                                 | Forecasting / foundation model                | —                                                                                                                                                            |
+| 2025 | Time‑VLM: Multimodal vision‑language for augmented forecasting                                                             | Multimodal forecasting                        | —                                                                                                                                                            |
+| 2025| Breaking Silos: Adaptive Model Fusion Unlocks Better Time Series Forecasting                                               | Ensemble / forecasting                        | —                                                                                                                                                            |
+| 2025 | Privacy Amplification by Structured Subsampling for Deep Differentially Private Time Series Forecasting                    | Privacy-aware forecasting                     | —                                                                                                                                                            |
+| *2025 | TimeBase: Minimalist Efficient Long‑term Time Series Forecasting                                                           | Forecasting                                   | —                                                                                                                                                            |
 
 
 ---
